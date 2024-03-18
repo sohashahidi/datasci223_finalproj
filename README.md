@@ -9,4 +9,4 @@ Keras Neural Network (by Soha Shahidi): https://github.com/sohashahidi/datasci22
 
 XGBoost (by Soha Shahidi): https://github.com/sohashahidi/datasci223_finalproj/blob/main/xgboost.ipynb
 
-Report:
+Report: https://github.com/sohashahidi/datasci223_finalproj/blob/main/DATASCI%20223%20Project%20Report.pdf
